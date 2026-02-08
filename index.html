@@ -163,14 +163,30 @@ A beautiful landscape requires the skillful combination of horticultural practic
           <div class="grid6" id="contact">
             <h3>Contact Form</h3>
 			<div id="message"></div>
-           <form method="post" action="contact.php" name="contacts-form" id="contacts-form">
+          
+<!-- <form
+  action="https://formspree.io/f/mdaloqjw"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form> -->
+
+           <form method="POST" action="https://formspree.io/f/mdaloqjw" id="contacts-form">
               <fieldset>
                 <div class="grid3 first">
                   <label>Name:<br />
                     <input type="text" name="name" type="text" id="name" value="" />
                   </label>
                   <label>E-mail:<br />
-                    <input type="email" name="email" type="text" id="email" value="" />
+                    <input type="email" name="email" type="text" id="email" value="" required />
                   </label>
                   <label>Phone:<br />
                     <input name="phone" type="text" id="phone" value="" />
@@ -184,11 +200,12 @@ A beautiful landscape requires the skillful combination of horticultural practic
                 </div>
                 <div class="grid3"><font color="#000000">Message:</font><br />
                   <textarea name="comments" id="comments"></textarea><br />
-				   <input value="Enter Security Code Here" onBlur="if(this.value=='') this.value='Enter Security Code Here'" onFocus="if(this.value =='Enter Security Code Here' ) this.value=''"  id="verify" name="verify" value="" maxlength="10" size="32" type="text"><br /><br />
+				   
 				  <div class="alignright">
                     <!--<a href="#" class="alt" onClick="document.getElementById('contacts-form').reset()">Clear</a>-->
 					&nbsp; &nbsp; &nbsp;
-					<div style="float:left;"><img id="imgCaptcha" src="./captcha/create_image.php" _mce_src="./captcha/create_image.php"></div> <input type="submit" class="submit" id="submit" value="Submit"  style="width:81px;margin-right:6px;" />
+					
+          <input type="submit" class="submit" id="submit" value="Submit" style="width:81px;margin-right:6px;">
 					<!--<a href="#" class="alt" onClick="document.getElementById('contacts-form').submit()">Submit</a>-->
                   </div>
                 </div>
