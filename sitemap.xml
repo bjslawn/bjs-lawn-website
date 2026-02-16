@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated for Managed SSL -->
-<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bjslawn.com/</loc></url>
-  <url><loc>https://bjslawn.com/joe@bjslawn.com</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.bjslawn.com/</loc>
+    <lastmod>2026-02-13</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.bjslawn.com/palatine-il-lawn-service.html</loc>
+    <lastmod>2026-02-13</lastmod>
+  </url>
+
 </urlset>
