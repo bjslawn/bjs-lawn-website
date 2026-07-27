@@ -2,62 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.bjslawn.com/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/accessibility/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/privacy/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/estimate/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/work/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/brick-paving/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-06-16</lastmod>
   </url>
 </urlset>
