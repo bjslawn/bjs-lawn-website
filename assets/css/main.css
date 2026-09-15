@@ -2841,7 +2841,7 @@ section,
   color: var(--contrast-color);
   padding: 1.5rem;
 }
-.service-details .portfolio-showcase .project-showcase-item .project-image .project-overlay .project-info h4 {
+.service-details .portfolio-showcase .project-showcase-item .project-image .project-overlay .project-info h3 {
   color: var(--contrast-color);
   font-size: 1.3rem;
   font-weight: 600;
