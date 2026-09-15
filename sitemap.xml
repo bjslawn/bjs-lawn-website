@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.bjslawn.com/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-09-15</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/about/</loc>
@@ -34,10 +34,34 @@
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-09-15</lastmod>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/brick-paving/</loc>
     <lastmod>2026-07-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/annuals-perennials/</loc>
+    <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/evergreens/</loc>
+    <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/planting/</loc>
+    <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/retaining-walls/</loc>
+    <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/shrubs/</loc>
+    <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/trees/</loc>
+    <lastmod>2026-09-15</lastmod>
   </url>
 </urlset>
