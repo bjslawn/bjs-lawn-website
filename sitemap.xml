@@ -2,66 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.bjslawn.com/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/about/</loc>
-    <lastmod>2026-06-16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bjslawn.com/contact/</loc>
-    <lastmod>2026-06-16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bjslawn.com/services/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/accessibility/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.bjslawn.com/privacy/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://www.bjslawn.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/estimate/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.bjslawn.com/work/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <loc>https://www.bjslawn.com/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/</loc>
-    <lastmod>2026-09-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bjslawn.com/services/design-and-install/brick-paving/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/annuals-perennials/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/brick-paving/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/complete-outdoor-design/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/evergreens/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/planting/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/retaining-walls/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/shrubs/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/design-and-install/site-planning-and-layout/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bjslawn.com/services/design-and-install/trees/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/material-delivery/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/mulch-installation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/shrub-removal/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/sodding-and-seeding/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/stump-grinding/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/landscaping/tree-removal-and-trimming/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/aeration-and-dethatching/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/gutter-cleaning/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/spring-fall-cleanups/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/weed-control-and-fertilization/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/weeding/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/services/lawn-and-yard-maintenance/weekly-lawn-mowing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bjslawn.com/work/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
