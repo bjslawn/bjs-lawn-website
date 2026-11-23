@@ -1,3 +1,7 @@
+# All crawlers, including search engines and AI search/assistant crawlers
+# (Googlebot, Bingbot, OAI-SearchBot, ChatGPT-User, GPTBot, PerplexityBot,
+# Claude-SearchBot, ClaudeBot, Applebot, etc.), may crawl the whole site.
 User-agent: *
-Disallow:
+Allow: /
+
 Sitemap: https://www.bjslawn.com/sitemap.xml

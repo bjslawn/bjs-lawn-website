@@ -25,6 +25,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Moved Permanently</title>
   <link rel="canonical" href="https://www.bjslawn.com/">
+  
 
   <!-- Favicons -->
   <link rel="icon" href="/assets/favicon.ico">
@@ -42,7 +43,8 @@
   <link href="/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 
   <!-- Main CSS File -->
-  <link href="/assets/css/main.css" rel="stylesheet">
+  <!-- ?v= changes on every build so browsers never pair new HTML with a cached old stylesheet -->
+  <link href="/assets/css/main.css?v=1795462707" rel="stylesheet">
 </head>
 
 <body class="index-page">
@@ -64,8 +66,8 @@
           <p>BJ's proudly provides weekly lawn maintenance to over 175 residential homes, multi-family homeowners associations, and businesses.</p>
         </div>
 
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Sitemap</h4>
+        <nav class="col-lg-2 col-6 footer-links" aria-label="Footer sitemap">
+          <p class="footer-heading">Sitemap</p>
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/about/">About Us</a></li>
@@ -73,18 +75,18 @@
             <li><a href="/work/">Our Work</a></li>
             <li><a href="/contact/">Contact</a></li>
           </ul>
-        </div>
+        </nav>
 
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Legal Pages</h4>
+        <nav class="col-lg-2 col-6 footer-links" aria-label="Legal pages">
+          <p class="footer-heading">Legal Pages</p>
           <ul>
             <li><a href="/privacy/">Privacy Policy</a></li>
             <li><a href="/accessibility/">Accessibility Policy</a></li>
           </ul>
-        </div>
+        </nav>
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Address</h4>
+          <p class="footer-heading">Address</p>
           <p>119 E Palatine Rd #214</p>
           <p>Palatine, IL 60067</p>
           <p>United States</p>
